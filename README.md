@@ -19,8 +19,6 @@ A powerful AI-powered tool to **summarize PDF slide decks**, extract topic roadm
 ## 🗂️ Project Structure
 
 ```
-main.py
-test.py
 slide_summarizer_agents/
     .env
     .gitignore

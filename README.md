@@ -159,4 +159,3 @@ MIT License
 
 ---
 
-Enjoy your AI-powered

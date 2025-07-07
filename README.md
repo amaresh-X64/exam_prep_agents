@@ -130,18 +130,6 @@ streamlit run app.py
 
 ---
 
-## 🧪 Testing
-
-- Run `test.py` to test Gemini LLM connectivity.
-
----
-
-## 🛡️ License
-
-MIT License
-
----
-
 ## 🙏 Credits
 
 - [Google Gemini](https://ai.google.dev/)
